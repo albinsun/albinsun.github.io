@@ -28,6 +28,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  albinsun
 
+show_excerpts: false    # Need to be false or included html (ipynb) will all shows up.
+
+disqus:
+    shortname: albins-garage
+
 # Navigation bar
 header_pages:
   - statistics.md
