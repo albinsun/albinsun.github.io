@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+> Welcome to my little laboratory. I note my study and some life thoughts here.\
+Feel free to walk around and take a break.

@@ -21,22 +21,19 @@
 title: Albin's Garage
 author: Albin Sun
 email: albin.sun@icloud.com
-description: >- # this means to ignore newlines until "baseurl:"
-  My little garage for notes of interests and life.
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
 github_username:  albinsun
 
+# Post
 show_excerpts: false    # Need to be false or included html (ipynb) will all shows up.
-
 disqus:
     shortname: albins-garage
 
 # Navigation bar
 header_pages:
   - statistics.md
-  - about.md
 
 # Build settings
 theme: minima
