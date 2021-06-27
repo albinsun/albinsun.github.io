@@ -5,5 +5,7 @@
 layout: home
 ---
 
-> Welcome to my little laboratory. I note my study and some life thoughts here.\
-Feel free to walk around and take a break.
+*Welcome to my <a href="https://youtu.be/hNM_qEVyzTA" target="_blank">garage</a>.*\
+*I put notes and have some handiwork here.*\
+*Feel free to walk around and take a break.* &#x1F964;
+
