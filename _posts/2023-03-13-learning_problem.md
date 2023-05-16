@@ -6,5 +6,5 @@ tags: ML
 published: true
 ---
 
-Hi, there.
+
 {% include posts/2023-03-13-learning_problem.html %}
