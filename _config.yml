@@ -34,7 +34,6 @@ disqus:
 # Navigation bar
 header_pages:
   - statistics.md
-  - ML.md
   - blog.md
 
 # Build settings
