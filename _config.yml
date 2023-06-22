@@ -20,7 +20,7 @@
 
 title: Albin's Garage
 author: Albin Sun
-email: albin.sun@icloud.com
+email: albin.sun@suse.com
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -33,8 +33,9 @@ disqus:
 
 # Navigation bar
 header_pages:
-  - statistics.md
   - blog.md
+  - python.md
+  - statistics.md
 
 # Build settings
 theme: minima
