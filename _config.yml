@@ -28,8 +28,8 @@ github_username:  albinsun
 
 # Post
 show_excerpts: false    # Need to be false or included html (ipynb) will all shows up.
-disqus:
-    shortname: albins-garage
+# disqus:
+#     shortname: albins-garage
 
 # Navigation bar
 header_pages:
