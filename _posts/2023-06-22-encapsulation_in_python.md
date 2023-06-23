@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title: "Encapsulation in Python"
 date: 2023-06-23 01:03:00 +0800
 tags: python

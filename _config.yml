@@ -23,13 +23,14 @@ author: Albin Sun
 email: albin.sun@suse.com
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://albinsun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  albinsun
 
 # Post
 show_excerpts: false    # Need to be false or included html (ipynb) will all shows up.
-disqus:
-    shortname: albins-garage
+# https://stackoverflow.com/questions/41613661/we-were-unable-to-load-disqus-with-jekylls-default-minima-theme
+# disqus:
+#     shortname: albins-garage
 
 # Navigation bar
 header_pages:
